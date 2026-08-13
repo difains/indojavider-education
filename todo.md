@@ -12,3 +12,9 @@
 - [ ] 대상 저장소 difains/indojavider-education의 기본 브랜치와 접근 권한을 확인한다.
 - [ ] 최신 프로젝트 커밋을 대상 저장소 main 브랜치로 업로드한다.
 - [ ] 대상 저장소의 GitHub Pages 환경을 Actions 배포 방식으로 활성화한다.
+- [x] GitHub 직접 업로드용 프로젝트 전체 소스와 배포 워크플로를 다운로드 패키지에 포함한다.
+- [x] GitHub 업로드·Pages 활성화 절차를 담은 안내 문서를 패키지에 포함한다.
+- [x] ZIP 패키지의 내용과 압축 해제 가능 여부를 확인한다.
+- [ ] 갱신된 GitHub 인증 토큰과 difains/indojavider-education 저장소 쓰기 권한을 재확인한다.
+- [ ] 최신 프로젝트 코드를 대상 저장소 main 브랜치에 업로드한다.
+- [ ] GitHub Pages Actions 배포 실행과 공개 주소를 검증한다.
