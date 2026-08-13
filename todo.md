@@ -18,3 +18,6 @@
 - [x] 갱신된 GitHub 인증 토큰과 difains/indojavider-education 저장소 쓰기 권한을 재확인한다.
 - [x] 최신 프로젝트 코드를 대상 저장소 main 브랜치에 업로드한다.
 - [x] GitHub Pages Actions 배포 실행과 공개 주소를 검증한다.
+- [ ] 기존 README 내용과 현재 프로젝트 구성을 확인한다.
+- [ ] 프로젝트 소개·개발·배포·콘텐츠 구조를 담은 README를 작성한다.
+- [ ] README를 GitHub 저장소 main 브랜치에 업로드하고 표시를 확인한다.
