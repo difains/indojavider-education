@@ -5,16 +5,16 @@
 - [x] 3주차·4주차의 모든 페이지 내용을 현재 화면과 대조하여 빠진 문장·도식·실천 과제를 보강한다.
 - [x] 데스크톱 및 모바일에서 주차별 전체 콘텐츠, 탭, 아코디언, 체크리스트를 검수한다.
 - [x] 타입 검사·프로덕션 빌드 성공 후 업데이트 체크포인트를 저장하고 전달한다.
-- [ ] GitHub 계정 연결 상태와 저장소 생성·내보내기 권한을 확인한다.
-- [ ] GitHub Pages용 정적 배포 설정과 워크플로를 준비한다.
-- [ ] 사용자의 승인 후 GitHub 저장소로 내보내고 Pages 공개 설정을 적용한다.
-- [ ] 공개된 GitHub Pages 주소에서 배포 결과를 확인한다.
-- [ ] 대상 저장소 difains/indojavider-education의 기본 브랜치와 접근 권한을 확인한다.
-- [ ] 최신 프로젝트 커밋을 대상 저장소 main 브랜치로 업로드한다.
-- [ ] 대상 저장소의 GitHub Pages 환경을 Actions 배포 방식으로 활성화한다.
+- [x] GitHub 계정 연결 상태와 저장소 생성·내보내기 권한을 확인한다.
+- [x] GitHub Pages용 정적 배포 설정과 워크플로를 준비한다.
+- [x] 사용자의 승인 후 GitHub 저장소로 내보내고 Pages 공개 설정을 적용한다.
+- [x] 공개된 GitHub Pages 주소에서 배포 결과를 확인한다.
+- [x] 대상 저장소 difains/indojavider-education의 기본 브랜치와 접근 권한을 확인한다.
+- [x] 최신 프로젝트 커밋을 대상 저장소 main 브랜치로 업로드한다.
+- [x] 대상 저장소의 GitHub Pages 환경을 Actions 배포 방식으로 활성화한다.
 - [x] GitHub 직접 업로드용 프로젝트 전체 소스와 배포 워크플로를 다운로드 패키지에 포함한다.
 - [x] GitHub 업로드·Pages 활성화 절차를 담은 안내 문서를 패키지에 포함한다.
 - [x] ZIP 패키지의 내용과 압축 해제 가능 여부를 확인한다.
-- [ ] 갱신된 GitHub 인증 토큰과 difains/indojavider-education 저장소 쓰기 권한을 재확인한다.
-- [ ] 최신 프로젝트 코드를 대상 저장소 main 브랜치에 업로드한다.
-- [ ] GitHub Pages Actions 배포 실행과 공개 주소를 검증한다.
+- [x] 갱신된 GitHub 인증 토큰과 difains/indojavider-education 저장소 쓰기 권한을 재확인한다.
+- [x] 최신 프로젝트 코드를 대상 저장소 main 브랜치에 업로드한다.
+- [x] GitHub Pages Actions 배포 실행과 공개 주소를 검증한다.
