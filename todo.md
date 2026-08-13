@@ -9,3 +9,6 @@
 - [ ] GitHub Pages용 정적 배포 설정과 워크플로를 준비한다.
 - [ ] 사용자의 승인 후 GitHub 저장소로 내보내고 Pages 공개 설정을 적용한다.
 - [ ] 공개된 GitHub Pages 주소에서 배포 결과를 확인한다.
+- [ ] 대상 저장소 difains/indojavider-education의 기본 브랜치와 접근 권한을 확인한다.
+- [ ] 최신 프로젝트 커밋을 대상 저장소 main 브랜치로 업로드한다.
+- [ ] 대상 저장소의 GitHub Pages 환경을 Actions 배포 방식으로 활성화한다.
